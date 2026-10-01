@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Fahad Ansari</h1>
 
 <h3 align="center">
-💻 Frontend Developer in Progress | 🇵🇰 Pakistan
+💻 Frontend Developer in Progress | 🛒 E-Commerce | 🇵🇰 Pakistan
 </h3>
 
 <p align="center">
@@ -19,6 +19,7 @@
 
 - 🌱 Currently learning **Modern Web & App Development**
 - 💻 Focused on **Frontend Development**
+- 🛒 Familiar with **Shopify & E-Commerce**
 - 🎨 Interested in **Web Design & UI**
 - 📚 Currently improving my **JavaScript** skills
 - 🛠️ Building projects to strengthen my development skills
@@ -49,7 +50,7 @@
   </a>
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 <p align="left">
   <a href="https://code.visualstudio.com/">
@@ -67,6 +68,22 @@
   <a href="https://www.canva.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45" alt="Canva"/>
   </a>
+
+  <a href="https://www.shopify.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="45" height="45" alt="Shopify"/>
+  </a>
+</p>
+
+---
+
+## 🛒 E-Commerce
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Shopify-E--Commerce-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+</p>
+
+<p align="center">
+  Familiar with Shopify store management, product uploads and basic e-commerce workflows.
 </p>
 
 ---
@@ -90,7 +107,7 @@ I'm currently focusing on strengthening my fundamentals in **HTML, CSS, Bootstra
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
