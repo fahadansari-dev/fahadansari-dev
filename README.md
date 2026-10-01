@@ -22,7 +22,7 @@
 - 🛒 Familiar with **Shopify & E-Commerce**
 - 🎨 Interested in **Web Design & UI**
 - 📚 Currently improving my **JavaScript** skills
-- 🛠️ Building projects to strengthen my development skills
+- 🛠️ Building projects to improve my development skills
 - 🚀 Working towards becoming a **Full Stack Developer**
 - 🇵🇰 Based in **Pakistan**
 
@@ -103,33 +103,18 @@
 
 > 🚀 Become a skilled Full Stack Developer and build real-world projects that solve real problems.
 
-I'm currently focusing on strengthening my fundamentals in **HTML, CSS, Bootstrap and JavaScript** before moving deeper into backend development.
+I'm currently strengthening my fundamentals in **HTML, CSS, Bootstrap and JavaScript** before moving deeper into backend development.
 
 ---
 
-## 📊 GitHub Stats
+## 📂 What I'm Working On
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" 
-  />
-</p>
+- 🌐 Building responsive websites
+- ⚡ Practicing JavaScript
+- 🎨 Improving UI & web design skills
+- 🛒 Exploring Shopify & E-Commerce
+- 🔧 Learning Git & GitHub
+- 🚀 Building projects and improving every day
 
 ---
 
